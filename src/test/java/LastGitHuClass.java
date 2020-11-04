@@ -1,4 +1,4 @@
-public class LastGitHubClass {
+public class LastGitHuClass {
     public static void main(String[] args) {
 // tc001_Lisa
         System.out.println("I;ve learned a lot about Git and GitHub");
